@@ -5,8 +5,9 @@ export default function App() {
   return (
     <div>
       <h1>
-        <Todo />
+        A ToDo w/ old react
       </h1>
+        <Todo />
     </div>
   );
 }
